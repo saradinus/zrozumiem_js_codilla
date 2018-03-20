@@ -1,7 +1,3 @@
-
-
-
-
 var addText = function(textToAdd){
 	var targetDiv = document.getElementById('basics-demo');
 	targetDiv.innerHTML += '<br>' + textToAdd;
@@ -25,10 +21,3 @@ var sayHello = function Greetings() {
 };
 
 buttonHello.addEventListener('click', sayHello);
-
-
-
-
-
-
- 
